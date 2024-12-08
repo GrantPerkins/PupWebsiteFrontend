@@ -54,7 +54,7 @@ function PhonePupAppBar() {
                             Kylee's K9s
                         </Typography>
                         <Typography
-                            variant="h7"
+                            variant="h6"
                             sx={{fontWeight: 'bold'}}
                             color={"primary"}
                         >
