@@ -1,0 +1,24 @@
+{
+  "description": "Kylee K9's offers a unique, adventure-based dog training experience. We are dedicated to creating balanced and happy canine companions through personalized training.",
+  "specialties": [
+    "Trail Training (recall, trail manners, obedience, heel work)",
+    "Obedience",
+    "Public Access Training",
+    "Leash Walking"
+  ],
+  "services": [
+    {
+      "name": "Off-Leash Adventure Daycare",
+      "description": "allows dogs learn and explore in a pack setting outdoors with 2-3 other dogs"
+    },
+    {
+      "name": "Trail Training",
+      "description": "focuses on building confidence, trust, obedience and discipline on hiking trails in a pack setting."
+    },
+    {
+      "name": "Solo Service",
+      "description": "for puppies and young dogs, or adult dogs with more pressing behavioral issues that require one-on-one attention."
+    }
+  ],
+  "notice": "All Solo Activities have a price increase from 10%-30%. Dogs are not considered for group activities until they are capable of following commands and working with other dogs without playing."
+}

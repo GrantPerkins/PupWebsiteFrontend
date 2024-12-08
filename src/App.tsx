@@ -1,6 +1,9 @@
 import { createTheme, ThemeProvider } from '@mui/material/styles';
-import {CssBaseline, Typography} from "@mui/material";
-import PupAppBar from "./components/PupAppBar.tsx";
+import {Box, CssBaseline, useMediaQuery} from "@mui/material";
+import ComputerPupAppBar from "./components/appbar/ComputerPupAppBar.tsx";
+import PhonePupAppBar from "./components/appbar/PhonePupAppBar.tsx";
+import Welcome from "./components/welcome/Welcome.tsx";
+import {makeStyles} from "@mui/styles";
 
 const theme = createTheme({
     palette: {
@@ -17,17 +20,24 @@ const theme = createTheme({
     },
 });
 
+const useStyles = makeStyles({
+    about: {
+        padding: "5%"
+    }
+});
+
 function App() {
+    const isPhone = useMediaQuery('(max-width: 600px)');
+    const classes = useStyles();
     return (
         <ThemeProvider theme={theme}>
             <CssBaseline/>
-            <PupAppBar />
-            <Typography variant="h1" component="h1">
-                PUPS GO HERE
-            </Typography>
-            <Typography variant="body2" component="p">
-                even more pups
-            </Typography>
+            {isPhone ? <PhonePupAppBar />:
+            <ComputerPupAppBar /> }
+            <Box className={classes.about}>
+                <Welcome />
+            </Box>
+
         </ThemeProvider>
     );
 }
