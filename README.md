@@ -48,3 +48,5 @@ export default tseslint.config({
   },
 })
 ```
+https://github.com/mui/material-ui/tree/v6.1.8/docs/data/material/getting-started/templates/marketing-page
+https://mui.com/material-ui/getting-started/templates/marketing-page/
