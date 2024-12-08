@@ -1,4 +1,4 @@
-import {AppBar, Toolbar, Typography, Box, IconButton, Button} from '@mui/material';
+import {AppBar, Toolbar, Typography, Box} from '@mui/material';
 import {makeStyles} from '@mui/styles';
 
 import logo from "../../assets/thumbnail.png";
