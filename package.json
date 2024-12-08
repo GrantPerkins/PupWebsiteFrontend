@@ -1,7 +1,7 @@
 {
   "name": "pup-website-frontend",
   "private": true,
-  "homepage": "https://grantperkins.github.com/PupWebsiteFrontend/",
+  "homepage": "https://GrantPerkins.github.com/PupWebsiteFrontend/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
