@@ -39,7 +39,7 @@ function PhonePupAppBar() {
     const classes = useStyles();
     return (
         <AppBar position="static" color="transparent" elevation={1}>
-            <Toolbar sx={{height: "10%", width:"100%", diplay: "flex"}}>
+            <Toolbar sx={{height: "10%", width: "100%", diplay: "flex"}}>
                 {/* Logo */}
                 <Box className={classes.titleBox}>
                     <Box className={classes.logoBox}>
@@ -53,13 +53,15 @@ function PhonePupAppBar() {
                         >
                             Kylee's K9s
                         </Typography>
-                        <Typography
-                            variant="h6"
-                            sx={{fontWeight: 'bold'}}
-                            color={"primary"}
-                        >
-                            +1 (774) 329 - 3944
-                        </Typography>
+                        <a href={"sms:7743293944"}>
+                            <Typography
+                                variant="h6"
+                                sx={{fontWeight: 'bold'}}
+                                color={"primary"}
+                            >
+                                +1 (774) 329 - 3944
+                            </Typography>
+                        </a>
                     </Box>
                 </Box>
             </Toolbar>

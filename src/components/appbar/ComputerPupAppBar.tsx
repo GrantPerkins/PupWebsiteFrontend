@@ -60,9 +60,11 @@ function ComputerPupAppBar() {
                 </Box>
 
                 <Box className={classes.message}>
+                    <a href={"sms:7743293944"}>
                     <Typography variant={"h4"} sx={{fontWeight: 'bold'}} color={"primary"}>
                         +1 (774) 329 - 3944
                     </Typography>
+                    </a>
                 </Box>
             </Toolbar>
         </AppBar>
