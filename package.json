@@ -9,7 +9,7 @@
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "predeploy": "npm run build && echo \"kyleesk9s.com\" > build/CNAME",
+    "predeploy": "npm run build && echo \"kyleesk9s.com\" > dist/CNAME",
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
