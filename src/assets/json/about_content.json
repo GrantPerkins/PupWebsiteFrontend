@@ -1,0 +1,34 @@
+{
+  "about": {
+    "heading": "About Me"
+  },
+  "dogs": {
+    "heading": "Meet my dogs:",
+    "list": [
+      {
+        "name": "Remi",
+        "description": "Remi is my pet first and foremost. He lives a full, active life — hiking, training, and existing as a stable, thoughtful companion. He reminds me every day that not every dog needs to be pushed to the edge of their drive to be fulfilled. Sometimes the greatest success is building confidence, neutrality, and joy in everyday life."
+      },
+      {
+        "name": "Sydney",
+        "description": "Sydney is my protection and bed detection dog. She represents the precision, intensity, and control required of true working dogs. With her, I balance power and clarity — channeling drive into purpose while maintaining stability and reliability."
+      }
+    ],
+    "closing": "Living with both ends of the spectrum — a pet-focused active Malinois and a high-level working dog — has shaped my training philosophy. I understand the difference between performance and partnership, and I value both."
+  },
+  "cats": {
+    "heading": "Our Feline Assistants",
+    "paragraphs": [
+      "Sweet Teddi and sassy Eevee are an important part of life at Kylee's K9. Teddi's calm confidence and Eevee's clear boundaries help dogs learn impulse control and respectful coexistence.",
+      "Their presence creates natural opportunities to build true neutrality — teaching dogs to stay composed and make good choices around distractions."
+    ]
+  },
+  "philosophy": {
+    "heading": "My Training Philosophy",
+    "paragraphs": [
+      "My foundation is relationship-based training built on positive reinforcement. Engagement, clarity, and motivation come first. I want dogs that choose to work with their handler — not dogs that comply out of confusion or pressure.",
+      "That said, I am a balanced trainer. I believe training tools have a place when they are properly introduced, fairly conditioned, and used humanely. Tools are not shortcuts — they are communication aids. When implemented correctly, they can create clarity and accountability without damaging trust.",
+      "Training should never be about overpowering a dog. It should be about teaching, guiding, and building mutual understanding."
+    ]
+  }
+}

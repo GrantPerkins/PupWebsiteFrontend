@@ -1,0 +1,33 @@
+{
+  "heading": "Services Offered",
+  "services": [
+    {
+      "name": "Board & Train Programs",
+      "paragraphs": [
+        "My board and trains are designed to be immersive, balanced, and structured — unlike traditional kennel-style programs. Dogs aren't just drilled in obedience; they live a full, active routine that prioritizes exercise, hiking, decompression, and purposeful training.",
+        "Physical outlets and mental fulfillment come first. Structured hikes, engagement work, and clear expectations create dogs that are not only obedient, but stable and fulfilled. Training is woven into daily life so dogs learn how to make good decisions both on and off the leash — not just in a controlled session."
+      ]
+    },
+    {
+      "name": "One-on-One Lessons",
+      "paragraphs": [
+        "Private sessions tailored to your specific needs. Perfect for owners who want to be hands-on and build skills alongside their dog with guided support.",
+        "At Kylee's K9, the goal isn't just a trained dog — it's a stronger partnership."
+      ]
+    },
+    {
+      "name": "Drive Testing for Working Prospects",
+      "paragraphs": [
+        "For owners considering sport, protection, or detection work, I offer professional drive evaluations for young and adult dogs. These assessments help determine natural prey drive, hunt drive, nerve strength, environmental stability, and overall working potential.",
+        "Drive testing gives you clarity before investing time and money into advanced training. Whether you're selecting a future sport prospect or evaluating a dog for protection or detection, my goal is to provide an honest, educated assessment of your dog's strengths, limitations, and best path forward."
+      ]
+    },
+    {
+      "name": "Bed Bug Detection Services",
+      "paragraphs": [
+        "In addition to dog training, I work with a contracted bed bug detection dog to provide discreet and accurate inspections. Canine scent detection is one of the most reliable tools available for locating live bed bugs and viable eggs — often identifying infestations long before they're visible to the human eye.",
+        "Our inspections are thorough, professional, and handled with care for both residential and commercial properties. When precision matters, a properly trained detection dog offers speed, accuracy, and peace of mind."
+      ]
+    }
+  ]
+}
