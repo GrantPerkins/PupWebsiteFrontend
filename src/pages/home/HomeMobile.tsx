@@ -118,7 +118,7 @@ export default function HomeMobile() {
           </Link>
           <Link to="/contact" className={classes.navLink}>
             <Button variant="outlined" fullWidth className={classes.outlineButton}>
-              Contact Us
+              Contact Me
             </Button>
           </Link>
           <Link to="/about" className={classes.navLink}>

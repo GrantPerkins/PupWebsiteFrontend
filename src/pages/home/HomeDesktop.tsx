@@ -138,7 +138,7 @@ export default function HomeDesktop() {
               </Link>
               <Link to="/contact" className={classes.navLink}>
                 <Button variant="outlined" className={classes.outlineButton}>
-                  Contact Us
+                  Contact Me
                 </Button>
               </Link>
             </Box>
@@ -169,7 +169,7 @@ export default function HomeDesktop() {
 
         <Box className={classes.mapSection}>
           <Typography variant="h5" className={classes.mapHeading}>
-            Find Us
+            Find Me
           </Typography>
           <Box className={classes.mapWrapper}>
             <iframe
