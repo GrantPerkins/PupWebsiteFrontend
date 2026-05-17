@@ -83,7 +83,7 @@ export default function CustomToolbar({ isMobile }: ToolbarProps) {
       <AppBar position="sticky" elevation={0} className={classes.appBar}>
         <Toolbar className={classes.toolbar}>
           <Link to="/" className={classes.navLink}>
-            <img src={logo} alt="Kylee's K9" className={classes.logo} />
+            <img src={logo} alt="Kylee's K9s" className={classes.logo} />
           </Link>
           <Box className={classes.navLinks}>
             {navItems.map((item) => (
@@ -104,7 +104,7 @@ export default function CustomToolbar({ isMobile }: ToolbarProps) {
       <AppBar position="sticky" elevation={0} className={classes.appBar}>
         <Toolbar className={classes.toolbar}>
           <Link to="/" className={classes.navLink}>
-            <img src={logo} alt="Kylee's K9" className={classes.logo} />
+            <img src={logo} alt="Kylee's K9s" className={classes.logo} />
           </Link>
           <Box className={classes.menuIcon}>
             <IconButton onClick={() => setDrawerOpen(true)} aria-label="open menu">

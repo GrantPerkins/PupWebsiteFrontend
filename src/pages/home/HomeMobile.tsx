@@ -99,7 +99,7 @@ export default function HomeMobile() {
         <Typography variant="h3" className={classes.title}>
           {homeContent.title}
         </Typography>
-        <img src="/photos/JSG07528.jpg" alt="Kylee's K9" className={classes.heroImage} />
+        <img src="/photos/JSG07528.jpg" alt="Kylee's K9s" className={classes.heroImage} />
         {homeContent.intro.map((paragraph, i) => (
           <Typography key={i} variant="body1" className={classes.introParagraph}>
             {paragraph}
@@ -113,7 +113,7 @@ export default function HomeMobile() {
           </Link>
           <Link to="/services" className={classes.navLink}>
             <Button variant="contained" fullWidth className={classes.primaryButton}>
-              Our Services
+              My Services
             </Button>
           </Link>
           <Link to="/contact" className={classes.navLink}>

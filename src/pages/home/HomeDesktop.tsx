@@ -156,7 +156,7 @@ export default function HomeDesktop() {
           <Box className={classes.ctaButtons}>
             <Link to="/services" className={classes.navLink}>
               <Button variant="contained" className={classes.primaryButton}>
-                Our Services
+                My Services
               </Button>
             </Link>
             <Link to="/about" className={classes.navLink}>

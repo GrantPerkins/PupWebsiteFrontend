@@ -18,7 +18,7 @@ export default function CustomFooter() {
     <footer>
       <Box className={classes.footer}>
         <Typography variant="body2" color="text.secondary">
-          © {year} Kylee's K9. All Rights Reserved. | Bothell, WA
+          © {year} Kylee's K9s. All Rights Reserved. | Bothell, WA
         </Typography>
       </Box>
     </footer>
